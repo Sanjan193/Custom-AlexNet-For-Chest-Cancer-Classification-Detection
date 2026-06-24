@@ -31,7 +31,7 @@ This repository contains a PyTorch-based deep learning project for lung cancer c
 Custom-alexnet-For-Chest-Cancer-Classification/
 │
 ├── models/
-│   └── custom_alexnet.joblib
+│   └── Gdrive_link/
 │
 ├── Notebook/
 │   └── Chest_Cancer(AlexNet).ipynb
